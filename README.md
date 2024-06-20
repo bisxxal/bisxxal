@@ -1,4 +1,6 @@
 # 💫 About Me:
+
+🙋‍♂️ hii there i am bishal a full-stack devloper 
 💬 Ask me about MERN STACK NODE .JS <br>
 
 

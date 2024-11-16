@@ -1,7 +1,7 @@
 #  About Me:
 
 🙋‍♂️ hii there i am bishal a full-stack devloper / Devops <br>
-Get My Portfolio https://bisxxal.dev 🎉 <br>
+Get My Portfolio https://bisxxal.tech  🎉 <br>
 
 
 ## 🌐 Socials:
